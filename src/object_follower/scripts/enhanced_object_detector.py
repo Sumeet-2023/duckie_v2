@@ -16,7 +16,7 @@ from std_msgs.msg import Bool, Float32, String
 from cv_bridge import CvBridge
 import threading
 
-API_IP = '172.17.240.133'
+API_IP = '172.20.10.3'
 API_PORT = 8000
 API_ENDPOINT = '/detect'
 
